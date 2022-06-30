@@ -1,0 +1,15 @@
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/08 - Array/Arrays/bin/Debug/net6.0/Arrays
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/08 - Array/Arrays/bin/Debug/net6.0/Arrays.deps.json
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/08 - Array/Arrays/bin/Debug/net6.0/Arrays.runtimeconfig.json
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/08 - Array/Arrays/bin/Debug/net6.0/Arrays.dll
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/08 - Array/Arrays/bin/Debug/net6.0/Arrays.pdb
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/08 - Array/Arrays/obj/Debug/net6.0/Arrays.csproj.AssemblyReference.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/08 - Array/Arrays/obj/Debug/net6.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/08 - Array/Arrays/obj/Debug/net6.0/Arrays.AssemblyInfoInputs.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/08 - Array/Arrays/obj/Debug/net6.0/Arrays.AssemblyInfo.cs
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/08 - Array/Arrays/obj/Debug/net6.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/08 - Array/Arrays/obj/Debug/net6.0/Arrays.dll
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/08 - Array/Arrays/obj/Debug/net6.0/refint/Arrays.dll
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/08 - Array/Arrays/obj/Debug/net6.0/Arrays.pdb
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/08 - Array/Arrays/obj/Debug/net6.0/Arrays.genruntimeconfig.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/08 - Array/Arrays/obj/Debug/net6.0/ref/Arrays.dll
